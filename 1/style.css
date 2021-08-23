@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    margin: 5px;
+    padding: 10px;
+}
+.img1{
+    border-style: dotted;
+    border-color: red;
+}
+.img2{
+    border-style: dashed;
+    border-color: rgb(28, 0, 189);
+}
+.img3{
+    border-style: solid;
+    border-color: rgb(96, 240, 0);
+}
+.img4{
+    border-style: double;
+    border-color: rgb(0, 227, 243);
+}
+.img5{
+    border-style: groove;
+    border-color: rgb(214, 238, 0);
+}
+div{
+    width: 370px;
+    height: 350;
+    margin: 5% auto;
+
+}
